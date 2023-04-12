@@ -1,4 +1,5 @@
-npm init -> Crear poyrcto de node
+npm init -> Crear proyecto de node,
+
 npm <Nombre del Script> -> Iniciar Script
 
 Ejercicio 1
